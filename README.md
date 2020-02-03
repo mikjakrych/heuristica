@@ -1,1 +1,1 @@
-"# heuristica" 
+Heuristica is a beautiful, modern serif font created by Andrey V. Panov. I downloaded the .otf files from https://www.fontsquirrel.com/fonts/heuristica. The four fonts in this family (regular, bold, italic, and bolditalic) can be accessed by linking to mikjakrych.github.io/heuristica/heuristica.css

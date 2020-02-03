@@ -1,0 +1,20 @@
+@font-face {
+font-family: Heuristica;
+src: url(https://mikjakrych.github.io/heuristica/Heuristica-Regular.otf);
+}
+@font-face {
+font-family: Heuristica;
+font-weight: bold;
+src: url(https://mikjakrych.github.io/heuristica/Heuristica-Bold.otf);
+}
+@font-face {
+font-family: Heuristica;
+font-weight: bold;
+font-style: italic;
+src: url(https://mikjakrych.github.io/heuristica/Heuristica-BoldItalic.otf);
+}
+@font-face {
+font-family: Heuristica;
+font-style: italic;
+src: url(https://mikjakrych.github.io/heuristica/Heuristica-Italic.otf);
+}
