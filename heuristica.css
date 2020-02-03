@@ -1,20 +1,6 @@
 @font-face {
-font-family: Heuristica;
-src: url(Heuristica-Regular.otf);
-}
-@font-face {
-font-family: Heuristica;
-font-weight: bold;
-src: url(Heuristica-Bold.otf);
-}
-@font-face {
-font-family: Heuristica;
-font-weight: bold;
-font-style: italic;
-src: url(Heuristica-BoldItalic.otf);
-}
-@font-face {
-font-family: Heuristica;
-font-style: italic;
-src: url(Heuristica-Italic.otf);
+  font-family: 'Heuristica';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Heuristica'), local('Heuristica-Regular'), url('https://mikjakrych.github.io/heuristica/Heuristica-Regular.otf') format('otf');
 }
